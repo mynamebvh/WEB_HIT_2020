@@ -1,0 +1,23 @@
+.main {
+  padding: 0 20%;
+}
+
+.temperature::after {
+  content: '\00b0' !important;
+}
+
+.forecast-img {
+  display: inline !important;
+  margin-right: 3% !important;
+  transform: translateX(-25%);
+}
+
+.list-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.loading-forescast {
+  display: block !important;
+  margin: 10% auto 0 auto;
+}

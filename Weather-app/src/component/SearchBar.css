@@ -1,0 +1,16 @@
+.form {
+  margin-top: 20px;
+}
+
+.form-search {
+  display: flex;
+  justify-content: center;
+}
+
+.form-label {
+  margin-left: 3%;
+}
+
+.input {
+  width: 50%;
+}

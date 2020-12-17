@@ -1,0 +1,34 @@
+.temperature::after {
+  content: '\00b0' !important;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px !important;
+}
+
+.current-img {
+  display: block !important;
+  margin: 0 auto;
+}
+
+.loading-current {
+  margin: 0 auto;
+  display: block;
+}
+.description {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20%;
+}
+
+p {
+  font-weight: 400;
+  text-transform: capitalize;
+  font-size: 17px;
+}
