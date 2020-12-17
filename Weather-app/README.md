@@ -7,7 +7,8 @@
 
 ## 2. Lib, cú pháp
   * a. Function component (useState, useEffect)
-  * b. React - boostrap (thanh input)
+  * b. React - boostrap (thanh input, loading)
+  
   
 ## Contact - [Hoang Bui](https://www.facebook.com/MyNameBVH/) 
   
